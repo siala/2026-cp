@@ -1,0 +1,15 @@
+Each proposal should consist of the following two parts:
+
+A short scientific justification of the proposed topic, its significance, and the particular benefits of the workshop to one of the scientific communities using logic in computer science, as well as a list of previous or related workshops (if relevant).
+An organisational part including:
+Contact information for the workshop organizers
+Proposed affiliated conference
+Estimate of the number of workshop participants (please note that small workshops, i.e., fewer than ~13 participants, will likely be cancelled or merged)
+Proposed format and agenda (e.g. paper presentations, tutorials, demo sessions, etc.)
+Potential invited speakers
+Procedures for selecting papers and participants
+Plans for dissemination, if any (e.g. a journal special issue)
+Duration (one or two days)
+Preferred period: first block (July 18-19) or second block (July 24-25)
+The FLoC Workshops Committee, chaired by the FLoC 2026 Workshops Chairs and formed by one representative for each FLoC 2026 affiliated conference, will determine the final list of accepted workshops based on scientific relevance and the availability of space and facilities.
+
